@@ -39,7 +39,7 @@ import com.rxjava2.android.medicinealert.ui.operators.TimerExampleActivity;
 import com.rxjava2.android.medicinealert.ui.operators.WindowExampleActivity;
 import com.rxjava2.android.medicinealert.ui.operators.ZipExampleActivity;
 
-import androidx.appcompat.app;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class OperatorsActivity extends AppCompatActivity {
 
